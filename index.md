@@ -8,7 +8,7 @@ In this project, my mission was to implement a Frustum Culling system.
 
 # Minecraft like Context
 
-![Chunks](/images/mclike.png)
+![Chunks](/images/mclike.jpg)
 
 In our Minecraft like game, the player plays in an endless open world where the terrain is procedurally generated.
 The terrain is composed of blocks and subdivided in several cubic chunks.
